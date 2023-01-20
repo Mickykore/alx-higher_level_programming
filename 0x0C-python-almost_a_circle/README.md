@@ -1,11 +1,4 @@
 # Python - Almost a circle
-## General
-What is Unit testing and how to implement it in a large project
-How to serialize and deserialize a Class
-How to write and read a JSON file
-What is *args and how to use it
-What is **kwargs and how to use it
-How to handle named arguments in a function
 
 ![Circle](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
 
@@ -107,9 +100,4 @@ Represents a square. Inherits from `Rectangle` with:
     * 4th: `y`
   * `**kwargs` is expected to be a double pointer to a dictoinary of new key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
-* Public methoa t is Unit testing and how to implement it in a large project
-						     How to serialize and deserialize a Class
-											     How to write and read a JSON file
-															      What is *args and how to use it
-																			     What is **kwargs and how to use it
-																							  How to handle named arguments in a function`def to_dictionary(self):` that returns the dictionary representation of a `Square`.
+* Public method `def to_dictionary(self):` that returns the dictionary representation of a `Square`.
